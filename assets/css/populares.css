@@ -5,6 +5,7 @@
 .populares__conteudo {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     grid-area: conteudo;
     padding: 1rem 0;
 }

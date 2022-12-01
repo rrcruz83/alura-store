@@ -9,7 +9,7 @@
     grid-template-columns: 25% 25% 25% 25%;
     grid-template-rows: 33.3% 33.3% 33.3%;
     height: calc(100vh - 50px);
-    grid-gap: 1.2rem;
+    grid-gap: .2rem;
 }
 
 .destaques__titulo {
